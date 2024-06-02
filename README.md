@@ -10,7 +10,7 @@ I Machine Learning Engineer with a history of delivering end-to-end ML solutions
 
 You can find my CV [->here<-](https://drive.google.com/file/d/1fiYFN44gB65G-4mdRmDvC1vYHs4ogYp9/view?usp=share_link)
 
-I'm best reached via email: <alekseypodkidyshev@gmail.com> or [telegram](t.me/alekseyen)
+I'm best reached via email: <alekseypodkidyshev@gmail.com> or [telegram](https://t.me/alekseyen)
 
 ---
 
