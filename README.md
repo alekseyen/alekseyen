@@ -18,7 +18,7 @@ I'm best reached via email: <alekseypodkidyshev@gmail.com> or [telegram](https:/
   <a href="https://www.linkedin.com/in/alekseyen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/alekseyen">
+  <a href="https://alekseyen.t.me">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
