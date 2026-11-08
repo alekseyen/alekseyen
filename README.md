@@ -14,9 +14,6 @@ I Machine Learning Engineer with a history of delivering end-to-end ML solutions
   <a href="https://www.linkedin.com/in/alekseyen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://alekseyen.t.me">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
 </div>
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=alekseyen&style=flat-square&color=blue" alt="Telegram Badge"/>
