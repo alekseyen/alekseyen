@@ -8,10 +8,6 @@ I Machine Learning Engineer with a history of delivering end-to-end ML solutions
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alekseyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alekseyen/)
 
-You can find my CV [->here<-](https://drive.google.com/file/d/1fiYFN44gB65G-4mdRmDvC1vYHs4ogYp9/view?usp=share_link)
-
-I'm best reached via email: <alekseypodkidyshev@gmail.com> or [telegram](https://t.me/alekseyen)
-
 ---
 
 <div id="badges">
